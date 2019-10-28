@@ -12,11 +12,11 @@
 	<div class="row justify-content-center align-items-center">
 		<div class="col-md-4">
 		<h1 class="text-center text-info"> Регистрация </h1>  <br/>
-		<input type="text"			name="nickname"			placeholder="Ваше имя"					class="form-control" /><br/>
-		<input type="text"			name="sutnickname"	placeholder="Ваша фамилия"			class="form-control"/><br/>
-		<input type="text"			name="email"				placeholder="Email"							class="form-control"/><br/>
-		<input type="password"	name="pword"				placeholder="Пароль"						class="form-control"/><br/>
-		<input type="password"	name="pword1"				placeholder="Повторить пароль"	class="form-control"/><br/>
+		<input type="text" name="nickname" placeholder="Ваше имя" class="form-control" /><br/>
+		<input type="text" name="sutnickname" placeholder="Ваша фамилия" class="form-control"/><br/>
+		<input type="text" name="email" placeholder="Email" class="form-control"/><br/>
+		<input type="password" name="pword" placeholder="Пароль" class="form-control"/><br/>
+		<input type="password" name="pword1" placeholder="Повторить пароль" class="form-control"/><br/>
 		<input type="submit"		value="Регистрация"	class="btn btn-success"/>	<br/>
 		</div>
 	</div>
